@@ -15,3 +15,7 @@ linked to the rover.
 This project is designed for STMicroelectronics STM32-F401RE.  
 
 All details in this [white paper](https://github.com/gdiprisco/Robotic-Vehicle-Off-Road/blob/master/RoVeR%20Robotic%20Vehicle%20off%20Road.pdf).
+
+<img align="left" src="https://github.com/gdiprisco/Robotic-Vehicle-Off-Road/blob/master/images/Rover_expo_3.jpg" width="200">
+<img align="left" src="https://github.com/gdiprisco/Robotic-Vehicle-Off-Road/blob/master/images/Rover_expo_2.jpg" width="200">
+<img align="left" src="https://github.com/gdiprisco/Robotic-Vehicle-Off-Road/blob/master/images/Rover_expo_4.jpg" width="200">
