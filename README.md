@@ -1,5 +1,5 @@
 # Robotic-Vehicle-Off-Road
-This project deals with building an FWD rover that can work in two different modes:  
+This project deals with building an 4WD rover that can work in two different modes:  
 - Autonomous: the rover has to move autonomously following a line drawn on
 the roadway.  
 - Manual: the rover has to be controlled by an external device using a serial
