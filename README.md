@@ -1,4 +1,4 @@
-# Robotic-Vehicle-Off-Road
+# Robotic Vehicle Off Road
 This project deals with building an 4WD rover that can work in two different modes:  
 - Autonomous: the rover has to move autonomously following a line drawn on
 the roadway.  
